@@ -1,0 +1,14 @@
+fastapi[standard]>=0.111.0
+sqlalchemy>=2.0.31
+asyncpg>=0.29.0
+alembic>=1.13.2
+passlib[bcrypt]>=1.7.4
+python-jose[cryptography]>=3.3.0
+pydantic>=2.8.0
+pydantic-settings>=2.3.0
+pgvector>=0.3.0
+supabase>=2.6.0
+huggingface-hub>=0.23.0
+uvicorn>=0.30.1
+google-auth>=2.29.0
+requests>=2.31.0
